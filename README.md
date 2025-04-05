@@ -34,12 +34,6 @@ cd Metodos_Numericos_PUCPR
 >> run('lagrange.m')
 ```
 
-3. Para visualizar o gráfico do polinômio destacado:
-
-```matlab
->> run('highlight_polynomial_plot.m')
-```
-
 ## ✏️ Sugestões Futuras
 
 - Adicionar uma GUI interativa simples com botões para visualizar cada método
